@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Word temporary files
+~$*.docx
+
+# Temporary folders
+carpeta sin título/
+
+# Images (opcional)
+*.png
